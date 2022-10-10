@@ -1,5 +1,5 @@
 {
   "api": { 
-    "invokeUrl": ""
+    "invokeUrl": "https://vfyx5mlcdg.execute-api.us-east-1.amazonaws.com/prod"
   } 
 }

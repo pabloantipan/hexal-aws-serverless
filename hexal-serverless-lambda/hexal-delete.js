@@ -13,6 +13,7 @@ exports.handler = async (event, context) => {
     Key: {
       id: id,
     },
+    ConditionExpression: "attribute_exists(id)",
   };
 
   try {

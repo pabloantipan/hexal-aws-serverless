@@ -1,3 +1,6 @@
+## For AWS Learning usage: 
+Taken from: https://github.com/jspruance/hexal-serverless-starter
+YouTube tutorial link: https://youtu.be/T6V15INYZz0
 ## Hexal Energy app
 
 This is a starter ReactJS UI for my 'Create a Serverless App' tutorial series.
